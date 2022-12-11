@@ -1,0 +1,7 @@
+TensorFlow
+K-Means
+K-D Tree
+Ulam Spirali
+Stm32 Step motor lib
+CNC modu kodla
+Gerçek zamanlı alan hesaplama
